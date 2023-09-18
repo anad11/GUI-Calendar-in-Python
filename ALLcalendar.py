@@ -27,8 +27,7 @@ def to_do_listx():
     open_list.pack()
     open_cal.pack(padx=15,pady=15)
 
-
-
+# source code for to-do list from https://data-flair.training/blogs/python-to-do-list/
 def create_to_do_list(): 
     window2=Toplevel()
     window2.title("To-do list")
